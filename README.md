@@ -1,3 +1,8 @@
+<!-- GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Coding in Progress" width="600"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Vaibhav Patil</h1>
 <h3 align="center">B.Tech Computer Engineering | Java & C++ Developer | Open Source Contributor</h3>
 
@@ -65,7 +70,9 @@
 
 ### 🐍 Contribution Snake
 <p align="center">
+ 
   <img src="https://github.com/vaibhavpatilX/vaibhavpatilX/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
 </p>
 
 ---
