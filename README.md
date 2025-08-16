@@ -43,7 +43,7 @@ Console-based study tracker to **log, view, and analyze daily study sessions** w
 Command-line tool for **packing, unpacking, and encrypting files** with metadata support.  
 `Java` `CLI` `Encryption`
 
-#### 🌾 [KrishiKartX](https://github.com/vaibhavpatilX/KrishiKartX) (Prev: GrainsMart)  
+#### 🌾 [KrishiKartX](https://github.com/vaibhavpatilX/KrishiKartX) 
 Farmer-to-consumer marketplace connecting mandis, farmers, and buyers with **transparent pricing and logistics**.  
 `Java` `Spring Boot` `MySQL` `Full-Stack`
 
